@@ -1,0 +1,16 @@
+name: AMAS2026
+channels:
+- conda-forge
+dependencies:
+- python=3.13
+- numpy
+- matplotlib
+- scipy
+- pandas
+- sympy
+- iminuit
+- notebook
+- ipython
+- ipywidgets
+- beautifulsoup4
+- seaborn
