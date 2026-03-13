@@ -1,0 +1,5 @@
+W/ defective, the updated defective rate for A1: 0.022142857142857145
+W/ defective, the updated defective rate for A2: 0.051666666666666666
+W/ defective, the updated defective rate for A3: 0.155
+W/ defective, the updated defective rate for A4: 0.03875
+W/ defective, the updated defective rate for A5: 0.031
